@@ -1,4 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/oB8X8uxJ)
+Restaurant App\
+Se desarrolló una aplicación simple que consume una API REST, para simular una página de un restaurante, hecha en React y Node.js.\
 
 Comentarios:\
 -La search bar funciona parcialmente, cambia la ruta pero no se actualiza la página por lo que hay que darle a f5 para que funcione. \
